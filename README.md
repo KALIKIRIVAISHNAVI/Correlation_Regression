@@ -24,6 +24,10 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
 
-# Output 
+# Output
+![image](https://github.com/KALIKIRIVAISHNAVI/Correlation_Regression/assets/152273289/a6e7d54c-6b3d-426f-b01e-98018dc32d50)
+
+
+# Result
+To analyse given data using coeffificient of correlation and regression line. is done successfully.
